@@ -9,6 +9,6 @@ cd docker_practice
 # Login For Private Docker Repository
 docker login 
 docker pull jaemunbro/docker-practice
-#### volumn mounting and run
+# volumn mounting and run
 docker run -p 80:80 -v /home/Docker-practice/Project:/var/www/html jaemunbro/docker-practice
 </pre>

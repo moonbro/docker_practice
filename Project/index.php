@@ -1,6 +1,6 @@
 <?php
     $conn = mysqli_connect(
-        'docker-mysql-test.c2xagqgtpzeb.ap-south-1.rds.amazonaws.com',
+        'docker-mysql-test._________._________.rds.amazonaws.com',
         'user',
         'password',
         'TEST',
